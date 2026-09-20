@@ -1,7 +1,3 @@
-Here is a clean, professional `README.md` template you can use for your repository. It explains what the script actually does (interacting with your own activities via the API) so users understand its scope and limitations right away.
-
----
-
 ```markdown
 # Strava API Token & Activity Utility
 
