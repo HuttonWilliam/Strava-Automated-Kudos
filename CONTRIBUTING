@@ -1,0 +1,19 @@
+# Contributing to Strava-Automated-Kudos
+
+First off, thank you for taking the time to contribute! 🎉 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. 
+
+## How Can I Help?
+
+### Reporting Bugs
+If you find a bug in the script, please create an issue on GitHub. When reporting a bug, please include:
+* Your operating system and terminal environment (e.g., Bash, Zsh, WSL).
+* The steps to reproduce the issue.
+* Any relevant error messages (make sure to sanitize and remove any sensitive API keys, Client IDs, or Access Tokens before posting!).
+
+### Suggesting Enhancements
+Have an idea to make this tool better? Open an issue to discuss your proposal. Whether it's adding support for configuration files, improving error handling, or exploring alternative approaches, feedback is always welcome.
+
+### Submitting Pull Requests
+1. **Fork the repository** and create your branch from `main`:
+   ```bash
+   git checkout -b feature/your-feature-name
