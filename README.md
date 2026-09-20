@@ -56,5 +56,3 @@ chmod +x strava_kudos.sh
 This project is open-source and available under the [GNU GPL 3.0 License]([(https://github.com/HuttonWilliam/Strava-Automated-Kudos/blob/main/LICENSE)).
 
 ```
-
-```
